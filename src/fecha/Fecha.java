@@ -238,6 +238,9 @@ public class Fecha
     public void metodo(){
         System.out.print("Rama primera");
     }
+    public void metodo2(){
+        System.out.print("Rama segunda");
+    }
 
 }//fin clase FECHA
 
