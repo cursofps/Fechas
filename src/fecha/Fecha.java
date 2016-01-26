@@ -235,7 +235,9 @@ public class Fecha
     
     return dias ;
 }
-    public void metodo(){System.out.print("Version 0.1");}
+    public void metodo(){
+        System.out.print("Rama primera");
+    }
 
 }//fin clase FECHA
 
