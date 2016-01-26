@@ -12,7 +12,7 @@ package fecha;
  */
 public class Fecha 
 {//INICIO CLASE FECHA
-    
+        
     private int dia;
     private int mes;
     private int anno;
@@ -231,7 +231,6 @@ public class Fecha
                 }
                 anocopy++;
             }
-
         }
     
     return dias ;
